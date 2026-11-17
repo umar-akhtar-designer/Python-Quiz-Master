@@ -1,0 +1,424 @@
+{
+  "version": 1,
+  "settings": {
+    "currency": "$",
+    "created_at": "2026-11-17 18:26:25"
+  },
+  "transactions": [
+    {
+      "id": "TXN-0001",
+      "type": "expense",
+      "description": "Rent share",
+      "amount": 620.0,
+      "date": "2026-11-01",
+      "category": "Bills",
+      "note": "Apartment rent",
+      "created_at": "2026-11-01 12:00:00"
+    },
+    {
+      "id": "TXN-0002",
+      "type": "expense",
+      "description": "Groceries",
+      "amount": 64.3,
+      "date": "2026-11-03",
+      "category": "Food",
+      "note": "Weekly shop",
+      "created_at": "2026-11-03 12:00:00"
+    },
+    {
+      "id": "TXN-0003",
+      "type": "expense",
+      "description": "Bus pass",
+      "amount": 35.0,
+      "date": "2026-11-04",
+      "category": "Transport",
+      "note": "Monthly top-up",
+      "created_at": "2026-11-04 12:00:00"
+    },
+    {
+      "id": "TXN-0004",
+      "type": "expense",
+      "description": "Coffee and bagel",
+      "amount": 5.25,
+      "date": "2026-11-06",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-11-06 12:00:00"
+    },
+    {
+      "id": "TXN-0005",
+      "type": "expense",
+      "description": "Mobile phone bill",
+      "amount": 28.0,
+      "date": "2026-11-08",
+      "category": "Bills",
+      "note": "",
+      "created_at": "2026-11-08 12:00:00"
+    },
+    {
+      "id": "TXN-0006",
+      "type": "expense",
+      "description": "Python textbook",
+      "amount": 42.99,
+      "date": "2026-11-10",
+      "category": "Education",
+      "note": "Used copy",
+      "created_at": "2026-11-10 12:00:00"
+    },
+    {
+      "id": "TXN-0007",
+      "type": "expense",
+      "description": "Dinner with friends",
+      "amount": 26.4,
+      "date": "2026-11-12",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-11-12 12:00:00"
+    },
+    {
+      "id": "TXN-0008",
+      "type": "expense",
+      "description": "Hoodie",
+      "amount": 45.0,
+      "date": "2026-11-14",
+      "category": "Shopping",
+      "note": "Sale price",
+      "created_at": "2026-11-14 12:00:00"
+    },
+    {
+      "id": "TXN-0009",
+      "type": "expense",
+      "description": "Groceries",
+      "amount": 51.2,
+      "date": "2026-11-16",
+      "category": "Food",
+      "note": "Fruit and vegetables",
+      "created_at": "2026-11-16 12:00:00"
+    },
+    {
+      "id": "TXN-0010",
+      "type": "expense",
+      "description": "Study snacks",
+      "amount": 7.8,
+      "date": "2026-11-17",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-11-17 12:00:00"
+    },
+    {
+      "id": "TXN-0011",
+      "type": "expense",
+      "description": "Rent share",
+      "amount": 620.0,
+      "date": "2026-10-01",
+      "category": "Bills",
+      "note": "Apartment rent",
+      "created_at": "2026-10-01 12:00:00"
+    },
+    {
+      "id": "TXN-0012",
+      "type": "expense",
+      "description": "Internet bill",
+      "amount": 39.99,
+      "date": "2026-10-02",
+      "category": "Bills",
+      "note": "",
+      "created_at": "2026-10-02 12:00:00"
+    },
+    {
+      "id": "TXN-0013",
+      "type": "expense",
+      "description": "Groceries",
+      "amount": 58.6,
+      "date": "2026-10-05",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-10-05 12:00:00"
+    },
+    {
+      "id": "TXN-0014",
+      "type": "expense",
+      "description": "Bus pass",
+      "amount": 35.0,
+      "date": "2026-10-07",
+      "category": "Transport",
+      "note": "Monthly top-up",
+      "created_at": "2026-10-07 12:00:00"
+    },
+    {
+      "id": "TXN-0015",
+      "type": "expense",
+      "description": "Data structures book",
+      "amount": 55.0,
+      "date": "2026-10-09",
+      "category": "Education",
+      "note": "",
+      "created_at": "2026-10-09 12:00:00"
+    },
+    {
+      "id": "TXN-0016",
+      "type": "expense",
+      "description": "Lunch with classmates",
+      "amount": 18.4,
+      "date": "2026-10-11",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-10-11 12:00:00"
+    },
+    {
+      "id": "TXN-0017",
+      "type": "expense",
+      "description": "Streaming subscription",
+      "amount": 12.99,
+      "date": "2026-10-13",
+      "category": "Other",
+      "note": "",
+      "created_at": "2026-10-13 12:00:00"
+    },
+    {
+      "id": "TXN-0018",
+      "type": "expense",
+      "description": "Conference fee",
+      "amount": 60.0,
+      "date": "2026-10-15",
+      "category": "Education",
+      "note": "Student rate",
+      "created_at": "2026-10-15 12:00:00"
+    },
+    {
+      "id": "TXN-0019",
+      "type": "expense",
+      "description": "Groceries",
+      "amount": 61.1,
+      "date": "2026-10-18",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-10-18 12:00:00"
+    },
+    {
+      "id": "TXN-0020",
+      "type": "expense",
+      "description": "Dinner out",
+      "amount": 32.75,
+      "date": "2026-10-20",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-10-20 12:00:00"
+    },
+    {
+      "id": "TXN-0021",
+      "type": "expense",
+      "description": "Mobile phone bill",
+      "amount": 28.0,
+      "date": "2026-10-22",
+      "category": "Bills",
+      "note": "",
+      "created_at": "2026-10-22 12:00:00"
+    },
+    {
+      "id": "TXN-0022",
+      "type": "expense",
+      "description": "Running shoes",
+      "amount": 64.5,
+      "date": "2026-10-24",
+      "category": "Shopping",
+      "note": "End of season sale",
+      "created_at": "2026-10-24 12:00:00"
+    },
+    {
+      "id": "TXN-0023",
+      "type": "expense",
+      "description": "Concert ticket",
+      "amount": 45.0,
+      "date": "2026-10-26",
+      "category": "Other",
+      "note": "",
+      "created_at": "2026-10-26 12:00:00"
+    },
+    {
+      "id": "TXN-0024",
+      "type": "expense",
+      "description": "Coffee",
+      "amount": 6.75,
+      "date": "2026-10-28",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-10-28 12:00:00"
+    },
+    {
+      "id": "TXN-0025",
+      "type": "expense",
+      "description": "Rent share",
+      "amount": 620.0,
+      "date": "2026-09-01",
+      "category": "Bills",
+      "note": "Apartment rent",
+      "created_at": "2026-09-01 12:00:00"
+    },
+    {
+      "id": "TXN-0026",
+      "type": "expense",
+      "description": "Groceries",
+      "amount": 49.85,
+      "date": "2026-09-03",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-09-03 12:00:00"
+    },
+    {
+      "id": "TXN-0027",
+      "type": "expense",
+      "description": "Metro card",
+      "amount": 30.0,
+      "date": "2026-09-06",
+      "category": "Transport",
+      "note": "",
+      "created_at": "2026-09-06 12:00:00"
+    },
+    {
+      "id": "TXN-0028",
+      "type": "expense",
+      "description": "Online course",
+      "amount": 24.99,
+      "date": "2026-09-09",
+      "category": "Education",
+      "note": "Python practice",
+      "created_at": "2026-09-09 12:00:00"
+    },
+    {
+      "id": "TXN-0029",
+      "type": "expense",
+      "description": "Electricity bill",
+      "amount": 47.3,
+      "date": "2026-09-12",
+      "category": "Bills",
+      "note": "Shared apartment",
+      "created_at": "2026-09-12 12:00:00"
+    },
+    {
+      "id": "TXN-0030",
+      "type": "expense",
+      "description": "Groceries",
+      "amount": 58.6,
+      "date": "2026-09-15",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-09-15 12:00:00"
+    },
+    {
+      "id": "TXN-0031",
+      "type": "expense",
+      "description": "Mobile phone bill",
+      "amount": 28.0,
+      "date": "2026-09-18",
+      "category": "Bills",
+      "note": "",
+      "created_at": "2026-09-18 12:00:00"
+    },
+    {
+      "id": "TXN-0032",
+      "type": "expense",
+      "description": "Haircut",
+      "amount": 25.0,
+      "date": "2026-09-21",
+      "category": "Other",
+      "note": "",
+      "created_at": "2026-09-21 12:00:00"
+    },
+    {
+      "id": "TXN-0033",
+      "type": "expense",
+      "description": "Study snacks",
+      "amount": 15.25,
+      "date": "2026-09-26",
+      "category": "Food",
+      "note": "",
+      "created_at": "2026-09-26 12:00:00"
+    },
+    {
+      "id": "TXN-0034",
+      "type": "expense",
+      "description": "Winter jacket",
+      "amount": 89.0,
+      "date": "2026-09-28",
+      "category": "Shopping",
+      "note": "",
+      "created_at": "2026-09-28 12:00:00"
+    },
+    {
+      "id": "TXN-0035",
+      "type": "expense",
+      "description": "Internet bill",
+      "amount": 39.99,
+      "date": "2026-09-28",
+      "category": "Bills",
+      "note": "",
+      "created_at": "2026-09-28 12:00:00"
+    },
+    {
+      "id": "TXN-0036",
+      "type": "income",
+      "description": "Monthly salary",
+      "amount": 3200.0,
+      "date": "2026-11-01",
+      "category": "Income",
+      "note": "Part-time internship",
+      "created_at": "2026-11-01 09:00:00"
+    },
+    {
+      "id": "TXN-0037",
+      "type": "income",
+      "description": "Freelance design job",
+      "amount": 180.0,
+      "date": "2026-11-17",
+      "category": "Income",
+      "note": "Small logo project",
+      "created_at": "2026-11-17 09:00:00"
+    },
+    {
+      "id": "TXN-0038",
+      "type": "income",
+      "description": "Monthly salary",
+      "amount": 3200.0,
+      "date": "2026-10-01",
+      "category": "Income",
+      "note": "Part-time internship",
+      "created_at": "2026-10-01 09:00:00"
+    },
+    {
+      "id": "TXN-0039",
+      "type": "income",
+      "description": "Freelance writing",
+      "amount": 150.0,
+      "date": "2026-10-15",
+      "category": "Income",
+      "note": "",
+      "created_at": "2026-10-15 09:00:00"
+    },
+    {
+      "id": "TXN-0040",
+      "type": "income",
+      "description": "Monthly salary",
+      "amount": 3200.0,
+      "date": "2026-09-01",
+      "category": "Income",
+      "note": "Part-time internship",
+      "created_at": "2026-09-01 09:00:00"
+    },
+    {
+      "id": "TXN-0041",
+      "type": "income",
+      "description": "Birthday gift",
+      "amount": 100.0,
+      "date": "2026-09-24",
+      "category": "Income",
+      "note": "",
+      "created_at": "2026-09-24 09:00:00"
+    }
+  ],
+  "budgets": {
+    "2026-09": 1290.0,
+    "2026-10": 1280.0,
+    "2026-11": 1010.0
+  }
+}

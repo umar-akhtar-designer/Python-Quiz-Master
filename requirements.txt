@@ -1,0 +1,9 @@
+# Python Smart Expense Tracker
+#
+# This project intentionally uses only the Python standard library, so there
+# is nothing to install. The command below is safe to run for convention:
+#
+#   python3 -m pip install -r requirements.txt
+#
+# Requirements:
+#   Python 3.8 or newer
